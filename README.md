@@ -1,4 +1,4 @@
-# 20-000
+# Flexbox/CSS Transitions
 This web project utilizes Flexbox and CSS Transitions to add some animations to an otherwise static web page to add some refinement.
 
 These are the features:
